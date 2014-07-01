@@ -1,0 +1,2 @@
+test plain text file w/ .txt extension
+
