@@ -1,2 +1,5 @@
 test plain text file w/ .txt extension
 
+add another line
+
+and another
